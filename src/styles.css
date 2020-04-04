@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+}
+
+.name {
+  font-weight: bold;
+}
+
+.number {
+  font-size: 0.8em;
+}
+
+.wrapper {
+  border: 1px solid #aaa;
+  padding: 10px;
+}

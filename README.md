@@ -1,2 +1,0 @@
-# ReactExercises
-Created with CodeSandbox
